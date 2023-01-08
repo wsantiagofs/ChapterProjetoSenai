@@ -1,5 +1,6 @@
 ﻿using ChapterProjetoSenai.Models;
 using ChapterProjetoSenai.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ChapterProjetoSenai.Controllers
